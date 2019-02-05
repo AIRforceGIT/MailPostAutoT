@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\StepikTask1\StepikTask1\bin\Debug\StepikTask1.exe.config
+C:\Users\root\source\repos\StepikTask1\StepikTask1\bin\Debug\StepikTask1.exe
+C:\Users\root\source\repos\StepikTask1\StepikTask1\bin\Debug\StepikTask1.pdb
+C:\Users\root\source\repos\StepikTask1\StepikTask1\obj\Debug\StepikTask1.csprojAssemblyReference.cache
+C:\Users\root\source\repos\StepikTask1\StepikTask1\obj\Debug\StepikTask1.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\StepikTask1\StepikTask1\obj\Debug\StepikTask1.exe
+C:\Users\root\source\repos\StepikTask1\StepikTask1\obj\Debug\StepikTask1.pdb
